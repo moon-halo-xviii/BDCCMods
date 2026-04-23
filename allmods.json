@@ -2007,7 +2007,7 @@
 		"modversion": "1.3",
 		"gameversion": "*",
 		"download": "https://raw.githubusercontent.com/Alexofp/BDCCMods/main/mods/Fluidex.zip"
-	}
+	},
 	{
 		"name": "QuickStart",
 		"description": "Skip the introductory scenes and go straight to the cellblock after character creation.\n\nAs a bonus, you're given the option to set your encounter preferences before the first batch of NPC pawns generate. No need to prune unwanted character types from your list after the fact!\n\nTested on BDCC 0.1.8, down to 0.1.1. Compatibility on other versions is not guaranteed.\n\nFYI: You miss out on 20-50 XP you can earn by fighting Risha in the opening. This mod assumes you chose not to fight her during intake; if you were trying to start the game as quickly as possible, you probably would have done that anyway.",
